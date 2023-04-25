@@ -19,8 +19,7 @@ For validation of the control system, simulations were carried out in MATLAB and
 results obtained show good behaviour for both controllers and therefore validate the design and implementation of the control system for regulating the temperature in the
 microfluidic device. </em>
 
-
-<h3> [Thesis](http://132.248.9.195/ptd2022/marzo/0823028/Index.html) </h3>
-
-
+###
+[Thesis](http://132.248.9.195/ptd2022/marzo/0823028/Index.html)
+###
 
