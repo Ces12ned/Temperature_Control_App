@@ -8,8 +8,7 @@ the current issues are the limited capacity to deliver results in reduced times,
 Microtechnology, especially the development of Lab-On-a-Chip (LOC) devices in conjunction with control theory and engineering, shows an attractive, reliable and low-
 cost technological solution for solving these problems, as well as the possibility of new technological developments in other areas.
 
-This work shows the development and implementation of a temperature control system in a microfluidic platform with the purpose of regulating the internal tempera-
-ture of microdroplets generated in microfluidic devices. The objective is, to carry out the genetic amplification technique known as RT-LAMP or isothermal amplification
+This work shows the development and implementation of a temperature control system in a microfluidic platform with the purpose of regulating the internal temperature of microdroplets generated in microfluidic devices. The objective is, to carry out the genetic amplification technique known as RT-LAMP or isothermal amplification
 mediated by reverse transcriptase loop.
 
 The implementation of the control system was carried out by means of an application developed in MATLAB in serial communication with an Arduino UNO board, which contains the design of two controllers. It incorporates the design of a classic PI control with Anti-WindUp and an advanced GPC control with restrictions. To send
