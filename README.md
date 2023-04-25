@@ -4,6 +4,7 @@
 Nowadays the development of new and better technologies focused on the health care sector is facing new challenges due to the high demand for these services. Some of
 the current issues are the limited capacity to deliver results in reduced times, as well as the need for trained personnel and large, specialized physical spaces, problems that limit access to these technologies in sectors of the population.
 
+  
 Microtechnology, especially the development of Lab-On-a-Chip (LOC) devices in conjunction with control theory and engineering, shows an attractive, reliable and low-
 cost technological solution for solving these problems, as well as the possibility of new technological developments in other areas.
 
@@ -19,7 +20,7 @@ results obtained show good behaviour for both controllers and therefore validate
 microfluidic device. </em>
 
 
-<span style="color:purple">[Thesis](http://132.248.9.195/ptd2022/marzo/0823028/Index.html)</span>.
+###[Thesis](http://132.248.9.195/ptd2022/marzo/0823028/Index.html)###
 
 
 
